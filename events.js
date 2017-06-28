@@ -2,7 +2,6 @@
  * Created by Miss Esc on 2017/6/15.
  */
 
-
 const EventEmitter = require('events');
 
 class MyEmitter extends EventEmitter {
